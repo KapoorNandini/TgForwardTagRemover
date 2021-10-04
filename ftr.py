@@ -1,5 +1,5 @@
 # Anonymize - Forward tag remover bot
-# Copyright (C) 2021 @IshanSingla
+# Copyright (C) 2021 @IshanSingla | @Itz_Alain
 #
 # This file is a part of < https://github.com/IshanSingla/TgForwardTagRemover/ >
 # PLease read the GNU Affero General Public License in
@@ -50,6 +50,6 @@ async def copy(sed, message):
        return
 
 
-print("Started bot...! ") 
-print("Join @InducedBotSupport for any help !")
+print("Your Bot Was Successfully Started!") 
+print("Join @InducedBotSupport for any help...!")
 app.run()
