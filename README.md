@@ -1,4 +1,4 @@
-# ForwardTagRemover
+# TgForwardTagRemover
 
 **A bot which can remove forward tag from messages that you forwarded to ➡ bot**
 
@@ -10,14 +10,13 @@
 
 ## Support
  
-- **Join [Support Group](https://t.me/BotzCityChat) For Any Help...!**
+- **Join [Support Group](https://t.me/InducedBotSupport) For Any Help...!**
 
 ## Updates
 
-- **To get lastest updates on 🔛 New Bot join [this channel](t.me/BotzCity)**
+- **To get lastest updates on 🔛 New Bot join [this channel](https://t.me/InducedBotUpdates)**
 
 ## Credits
 
-- **[Me](https://t.me/Alain_xD)**
-- **[InukaAsith](https://t.me/InukaAsith)** 
+- **[Me](https://t.me/IshanSingla)**
 - **[Pyrogram](https://docs.pyrogram.org)**
