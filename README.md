@@ -19,4 +19,5 @@
 ## Credits
 
 - **[Me](https://t.me/IshanSingla)**
+- **[Dev](https://telegram.me/Itz_Alain)**
 - **[Pyrogram](https://docs.pyrogram.org)**
